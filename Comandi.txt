@@ -2,3 +2,10 @@ git init
 git add *
 git commit -m nome_file.txt
 git push
+
+
+1.git init
+2.git config user.name "Tuonick"
+3.git config user.email "sara.savio1@studenti.unipr.it"
+4.git add *
+5.git commit -m "some init msg"
