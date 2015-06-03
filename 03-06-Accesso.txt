@@ -18,3 +18,6 @@ psw:	soloio92
 ID:		SaraSavio
 mail:	sara.savio1@studenti.unipr.it
 psw:	reti2015
+
+
+http://git-scm.com/book/it/v1/Basi-di-Git-Salvare-le-modifiche-sul-repository
