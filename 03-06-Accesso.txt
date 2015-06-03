@@ -1,0 +1,20 @@
+03/06/2015
+
+------- Creazione Account su GitHub -------------
+ID:		Cescor46
+mail:	francesco.poggi@studenti.unipr.it
+psw:	francesco46
+
+Organization Name:	SeedBoxUnipr
+Billing email:	francesco.poggi@studenti.unipr.it
+
+
+
+ID:		Mastro992
+mail:	andrea.mastropietro@studenti.unipr.it
+psw:	soloio92
+
+
+ID:		SaraSavio
+mail:	sara.savio1@studenti.unipr.it
+psw:	reti2015
